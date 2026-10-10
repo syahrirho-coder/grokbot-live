@@ -1,0 +1,7 @@
+{
+  "name": "grokbot-live",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dashboard sinyal live: Binance Futures, DexScreener, forex, emas",
+  "engines": { "node": ">=18" }
+}
